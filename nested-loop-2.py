@@ -1,4 +1,4 @@
-# Let's break it down line by line:
+# Let us break it down line by line:
 
 
 others = 0
