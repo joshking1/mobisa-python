@@ -1,6 +1,6 @@
 # This code is written in the Python programming language, and it counts the number of "other" items in a group of 2 items.
 
-# Let's break it down line by line:
+# Let is break it down line by line:
 
 
 others = 0
